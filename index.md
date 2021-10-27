@@ -16,6 +16,7 @@ My purpose it to invest in myself. Learn new skills to open up more ways to find
 - Obtain Python Entry Level certification
 - Call and use images in Docker
 - Make websites in Github
+- Utilize Linux Command Line Interface
 
 ## AWS Application Developer, July 2021 to September 2021
 - Enforced “least privilege” with IAM (Identity Access Management)
