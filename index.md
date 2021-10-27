@@ -66,6 +66,9 @@ San Antonio College - AS Computer programming, 2013 to 2016
 - Created my first web site utilizing php/MySQL.
 - Utilize bootstrap to make website
 - Experience in making databases with Oracle 11g
+- TestOut - Certified LInux Pro and Certified PC Pro
+- Marketable achievements - CompTIA A+, Network+, Security+, and Visual Basic Net Programming
+- Academic honors - Fall 2013 and Spring 2014
 
 University of Texas San Antonio - BS Biology, 2000 to 2007
 
