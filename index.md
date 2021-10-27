@@ -7,7 +7,21 @@ My motto is identify a purpose that resonances with you. Find a goal you want to
 
 My purpose it to invest in myself. Learn new skills to open up more ways to find solutions to issues. It helps me grow to something better than what I was yesterday.
 
-# Experience - Accenture federal services
+# Experience - Accenture Federal Services, March 2016 to present day
+
+## Big Data Analyst, October 2021 to Present day
+- Obtain Python Entry Level certification
+- Call and use images in Docker
+- Make websites in Github
+
+## AWS Application Developer, July 2021 to September 2021
+- Enforced “least privilege” with IAM (Identity Access Management)
+- Monitor errors in CloudWatch
+- Research Python3 code in Github
+- Research Terraform capabilities to automate IAM roles
+- Testing Application Programming Interface [API] using Postman 
+- Monitor Continuous Integration/ Continuous Deployment [CI/CD] pipelines using Concourse.
+
 
 ## SAP BI analyst
 
