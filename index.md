@@ -1,14 +1,16 @@
-Trying something new
-
-# Summary - about me
 This is my career website I builted. I am in information technology [IT]. I specialize in organizing data sets and metrics. In addition, I am familiar with Cybersecurity concepts
 
 My motto is identify a purpose that resonances with you. Find a goal you want to chase, choose a plan of action to reach that goal, and follow through it.
 
 My purpose it to invest in myself. Learn new skills to open up more ways to find solutions to issues. It helps me grow to something better than what I was yesterday.
 
-# Experience 
-## Accenture Federal Services, March 2016 to present day
+# Objective
+- To secure a challenging cloud computing position in a software company to enhance my learnings, knowledge, and skills.
+
+# Summary 
+- Highly motivated, tech savvy professional with 5 years’ experience in Cloud Computing. Analytical ability and talent to organize information.
+
+# Experience - Accenture, March 2016 to present day
 
 ## Big Data Analyst, October 2021 to Present day
 - Obtain Python Entry Level certification
@@ -24,14 +26,14 @@ My purpose it to invest in myself. Learn new skills to open up more ways to find
 - Monitor Continuous Integration/ Continuous Deployment [CI/CD] pipelines using Concourse.
 
 ## SAP BI analyst, February 2020 to June 2021
-- drive automation in processes
+- Drive automation in processes
 - Reviewing system logs for errors in client system.
 - Maintain integrity of large data transfers in process chains.
 - Resolve process bottlenecks in process chains.
 - Reporting and analysis; system and platform performance.
 - Perform system stabilization activities.
 - Increase efficiency of tracker by 83%.
-- lead team meetings
+- Lead team meetings
 - In SAP Hana Studio, created a SQL statement to enhance proficiency by 50% to send system status updates
 
 ## SAP Portal Analyst, February 2019 to January 2020
@@ -40,7 +42,19 @@ My purpose it to invest in myself. Learn new skills to open up more ways to find
 - Investigate reasons why client websites are down to prevent client from losing any business from its customers.
 - Contribute 92% of the Selenium project as an automated tester. Test automated scripts with input validation to ensure good security posture.
 
-## Performance Stress Tester
+## Performance Stress Tester, 
+- Help coach coworkers on passing security plus.
+- Standard security posture making sure sensitive documents and computers locked when away at random times.
+- Overlay system baselines with current system performance trend analysis.
+- Investigate and scan performance spikes to ensure client systems are working at peak performance.
+- Develop excel macro to automate daily task. Increase completion of daily tasks to save time on everyone on my team.
+- Stress test client website on a security posture.
+
+## ABAP Developer, March 2016 to June 2016
+= Trained in SAP module: ABAP.
+- Completed 2 issues related to SAP utilizing ABAP code.
+- Attended ABAP bootcamp.
+- Familiar with debugger, ALV list and BAPI.
 
 # Education
 San Antonio College - AS Computer programming, 2013 to 2016
