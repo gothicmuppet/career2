@@ -4,6 +4,8 @@ My motto is identify a purpose that resonances with you. Find a goal you want to
 
 My purpose it to invest in myself. Learn new skills to open up more ways to find solutions to issues. It helps me grow to something better than what I was yesterday.
 
+![Profile pic](https://media-exp1.licdn.com/dms/image/C4D03AQHVTKTEKbO0Gw/profile-displayphoto-shrink_200_200/0/1526336553847?e=1640822400&v=beta&t=j7foDso628Ei8hwEsaelFMQGW_nzgF6cAhH7aTHZ3O4)
+
 # Objective
 - To secure a challenging cloud computing position in a software company to enhance my learnings, knowledge, and skills.
 
