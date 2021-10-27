@@ -80,3 +80,9 @@ PCEP | OpenEDG | October 2021 | n/a
 ICAgile Certified Professional | ICAgile | January 2018 | n/a
 Splunk Core Certified User | Splunk | March 2021 | March 2024
 Certified Ethical Hacker | EC-Council | August 2020 | August 2023
+
+# Volunteering
+Coders Dojo, February 2019 to present
+- Teaching kids cyber security
+- Simulate brute force attack in python
+- Kids complete Cyber Awareness Challenge
