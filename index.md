@@ -42,7 +42,7 @@ My purpose it to invest in myself. Learn new skills to open up more ways to find
 - Investigate reasons why client websites are down to prevent client from losing any business from its customers.
 - Contribute 92% of the Selenium project as an automated tester. Test automated scripts with input validation to ensure good security posture.
 
-## Performance Stress Tester, 
+## Performance Stress Tester, April 2017 to January 2019
 - Help coach coworkers on passing security plus.
 - Standard security posture making sure sensitive documents and computers locked when away at random times.
 - Overlay system baselines with current system performance trend analysis.
@@ -51,7 +51,7 @@ My purpose it to invest in myself. Learn new skills to open up more ways to find
 - Stress test client website on a security posture.
 
 ## ABAP Developer, March 2016 to June 2016
-= Trained in SAP module: ABAP.
+- Trained in SAP module: ABAP.
 - Completed 2 issues related to SAP utilizing ABAP code.
 - Attended ABAP bootcamp.
 - Familiar with debugger, ALV list and BAPI.
