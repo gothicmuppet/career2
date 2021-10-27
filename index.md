@@ -7,7 +7,8 @@ My motto is identify a purpose that resonances with you. Find a goal you want to
 
 My purpose it to invest in myself. Learn new skills to open up more ways to find solutions to issues. It helps me grow to something better than what I was yesterday.
 
-# Experience - Accenture Federal Services, March 2016 to present day
+# Experience 
+## Accenture Federal Services, March 2016 to present day
 
 ## Big Data Analyst, October 2021 to Present day
 - Obtain Python Entry Level certification
@@ -22,8 +23,22 @@ My purpose it to invest in myself. Learn new skills to open up more ways to find
 - Testing Application Programming Interface [API] using Postman 
 - Monitor Continuous Integration/ Continuous Deployment [CI/CD] pipelines using Concourse.
 
+## SAP BI analyst, February 2020 to June 2021
+- drive automation in processes
+- Reviewing system logs for errors in client system.
+- Maintain integrity of large data transfers in process chains.
+- Resolve process bottlenecks in process chains.
+- Reporting and analysis; system and platform performance.
+- Perform system stabilization activities.
+- Increase efficiency of tracker by 83%.
+- lead team meetings
+- In SAP Hana Studio, created a SQL statement to enhance proficiency by 50% to send system status updates
 
-## SAP BI analyst
+## SAP Portal Analyst, February 2019 to January 2020
+- Resolve tickets in a timely manner to prevent users from working around the client system and break security
+- Manage web certificate tracker to ensure client websites do not expire and maintain compliance with security standards of the client.
+- Investigate reasons why client websites are down to prevent client from losing any business from its customers.
+- Contribute 92% of the Selenium project as an automated tester. Test automated scripts with input validation to ensure good security posture.
 
 ## Performance Stress Tester
 
