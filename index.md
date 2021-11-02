@@ -55,7 +55,7 @@ ABAP Developer, February 2016 to June 2016
 - Familiar with debugger, ALV list and BAPI.
 
 # Education
-San Antonio College - AS Computer programming, 2013 to 2016
+San Antonio College - AS Computer programming, 2016
 - Understood and taught subnetting to my classmates.
 - Map, create and manipulate networks, routers and switches
 - Build and took apart a desktop computer.
@@ -67,7 +67,7 @@ San Antonio College - AS Computer programming, 2013 to 2016
 - Marketable achievements - CompTIA A+, Network+, Security+, and Visual Basic Net Programming
 - Academic honors - Fall 2013 and Spring 2014
 
-University of Texas San Antonio - BS Biology, 2000 to 2007
+University of Texas San Antonio - BS Biology, 2007
 
 # Certificates
 
