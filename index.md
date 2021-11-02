@@ -1,14 +1,10 @@
-This is my career website I builted. I am in information technology [IT]. I specialize in organizing data sets and metrics. In addition, I am familiar with Cybersecurity concepts
+As an IT professional, I organize data sets and analytics. I worked for professional companies such as AFS and LLP.
 
-My motto is identify a purpose that resonances with you. Find a goal you want to chase, choose a plan of action to reach that goal, and follow through it.
 
 ![Profile pic](https://yt3.ggpht.com/ytc/AKedOLQHb5RyMN68WHBL9Sf6dQ32LjdTiE8q1mtaQT8V_A=s176-c-k-c0x00ffffff-no-rj-mo)
 
 # Objective
 - To secure a challenging cloud computing position in a software company to enhance my learnings, knowledge, and skills.
-
-# Summary 
-- Highly motivated, tech savvy professional with 5 years’ experience in Cloud Computing. Analytical ability and talent to organize information.
 
 # Experience 
 ## Accenture Federal Services, March 2016 to present day
