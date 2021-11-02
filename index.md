@@ -30,9 +30,9 @@ SAP BI analyst, February 2020 to June 2021
 - Resolve process bottlenecks in process chains.
 - Reporting and analysis; system and platform performance.
 - Perform system stabilization activities.
-- Increase efficiency of tracker by 83%.
+- Modify macros in process chain tracker which increase efficiency by 83%.
 - Lead team meetings
-- In SAP Hana Studio, create a SQL statement to enhance proficiency by 50% to send system status updates
+- Create a SQL statement in SAP Hana Studio to enhance proficiency by 50% to send system status updates
 
 SAP Portal Analyst, February 2019 to January 2020
 - Resolve tickets in a timely manner to prevent users from working around the client system and break security
@@ -56,13 +56,13 @@ ABAP Developer, February 2016 to June 2016
 
 # Education
 San Antonio College - AS Computer programming, 2016
-- Understood and taught subnetting to my classmates.
-- Map, create and manipulate networks, routers and switches
+- Taught subnetting to my classmates.
+- Create, map and manipulate networks, routers and switches
 - Build and took apart a desktop computer.
 - Learn to maneuver around command prompts in Windows and Linux.
 - Create my first web site utilizing php/MySQL.
 - Utilize bootstrap to make website
-- Experience in making databases with Oracle 11g
+- Make small databases with Oracle 11g
 - TestOut - Certified LInux Pro and Certified PC Pro
 - Marketable achievements - CompTIA A+, Network+, Security+, and Visual Basic Net Programming
 - Academic honors - Fall 2013 and Spring 2014
