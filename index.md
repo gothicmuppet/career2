@@ -14,13 +14,13 @@ My purpose it to invest in myself. Learn new skills to open up more ways to find
 
 # Experience - Accenture Federal, March 2016 to present day
 
-## Big Data Analyst, October 2021 to Present day
+Big Data Analyst, October 2021 to Present day
 - Obtain Python Entry Level certification
 - Call and use images in Docker
 - Make websites in Github
 - Utilize Linux Command Line Interface
 
-## AWS Application Developer, July 2021 to September 2021
+AWS Application Developer, July 2021 to September 2021
 - Enforced “least privilege” with IAM (Identity Access Management)
 - Monitor errors in CloudWatch
 - Research Python3 code in Github
@@ -28,7 +28,7 @@ My purpose it to invest in myself. Learn new skills to open up more ways to find
 - Testing Application Programming Interface [API] using Postman 
 - Monitor Continuous Integration/ Continuous Deployment [CI/CD] pipelines using Concourse.
 
-## SAP BI analyst, February 2020 to June 2021
+SAP BI analyst, February 2020 to June 2021
 - Drive automation in processes
 - Reviewing system logs for errors in client system.
 - Maintain integrity of large data transfers in process chains.
@@ -39,13 +39,13 @@ My purpose it to invest in myself. Learn new skills to open up more ways to find
 - Lead team meetings
 - In SAP Hana Studio, created a SQL statement to enhance proficiency by 50% to send system status updates
 
-## SAP Portal Analyst, February 2019 to January 2020
+SAP Portal Analyst, February 2019 to January 2020
 - Resolve tickets in a timely manner to prevent users from working around the client system and break security
 - Manage web certificate tracker to ensure client websites do not expire and maintain compliance with security standards of the client.
 - Investigate reasons why client websites are down to prevent client from losing any business from its customers.
 - Contribute 92% of the Selenium project as an automated tester. Test automated scripts with input validation to ensure good security posture.
 
-## Performance Stress Tester, March 2017 to January 2019
+Performance Stress Tester, March 2017 to January 2019
 - Help coach coworkers on passing security plus.
 - Standard security posture making sure sensitive documents and computers locked when away at random times.
 - Overlay system baselines with current system performance trend analysis.
@@ -53,7 +53,7 @@ My purpose it to invest in myself. Learn new skills to open up more ways to find
 - Develop excel macro to automate daily task. Increase completion of daily tasks to save time on everyone on my team.
 - Stress test client website on a security posture.
 
-## ABAP Developer, February 2016 to June 2016
+ABAP Developer, February 2016 to June 2016
 - Trained in SAP module: ABAP.
 - Completed 2 issues related to SAP utilizing ABAP code.
 - Attended ABAP bootcamp.
