@@ -10,7 +10,7 @@ As an IT professional, I organize data sets and analytics. I worked for professi
 # Experience 
 ## Accenture Federal Services, March 2016 to present day
 
-Big Data Analyst, October 2021 to Present day
+**Big Data Analyst**, October 2021 to Present day
 
 Describe role and duties
 - Obtain Python Entry Level certification
@@ -18,7 +18,7 @@ Describe role and duties
 - Make websites in Github
 - Utilize Linux Command Line Interface
 
-AWS Application Developer, July 2021 to September 2021
+**AWS Application Developer**, July 2021 to September 2021
 
 Describe role and duties.
 - Enforce “least privilege” with IAM (Identity Access Management)
@@ -28,7 +28,7 @@ Describe role and duties.
 - Test Application Programming Interface [API] using Postman 
 - Monitor Continuous Integration/ Continuous Deployment [CI/CD] pipelines using Concourse.
 
-SAP BI analyst, February 2020 to June 2021
+**SAP BI analyst**, February 2020 to June 2021
 
 Describe role.
 - Drive automation in processes
@@ -41,7 +41,7 @@ Describe role.
 - Lead team meetings
 - Create a SQL statement in SAP Hana Studio to enhance proficiency by 50% to send system status updates
 
-SAP Portal Analyst, February 2019 to January 2020
+**SAP Portal Analyst**, February 2019 to January 2020
 
 Describe role
 - Resolve tickets in a timely manner to prevent users from working around the client system and break security
@@ -49,7 +49,7 @@ Describe role
 - Investigate reasons why client websites are down to prevent client from losing any business from its customers.
 - Contribute 92% of the Selenium project as an automated tester. Test automated scripts with input validation to ensure good security posture.
 
-Performance Stress Tester, March 2017 to January 2019
+**Performance Stress Tester**, March 2017 to January 2019
 
 Describe role.
 - Coach coworkers on passing security plus.
@@ -59,7 +59,7 @@ Describe role.
 - Develop excel macro to automate daily task. Increase completion of daily tasks to save time on everyone on my team.
 - Stress test client website on a security posture.
 
-ABAP Developer, February 2016 to June 2016
+**ABAP Developer**, February 2016 to June 2016
 
 My role is to fix programs in SAP. On the job, I learn to proper procedure to troubleshoot programs.
 - Train in SAP module: ABAP.
