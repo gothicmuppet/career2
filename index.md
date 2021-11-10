@@ -61,8 +61,8 @@ Describe role.
 
 ABAP Developer, February 2016 to June 2016
 
-Describe role.
-- Traine in SAP module: ABAP.
+My role is to fix programs in SAP. On the job, I learn to proper procedure to troubleshoot programs.
+- Train in SAP module: ABAP.
 - Complete 2 issues related to SAP utilizing ABAP code.
 - Attend ABAP bootcamp.
 - Familiar with debugger, ALV list and BAPI.
