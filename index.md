@@ -10,7 +10,8 @@ As an IT professional, I organize data sets and analytics. I worked for professi
 # Experience 
 ## Accenture Federal Services, March 2016 to present day
 
-**Big Data Analyst**, October 2021 to Present day
+Big Data Analyst 
+<div align="right">October 2021 to Present day</div>
 
 Describe role and duties
 - Obtain Python Entry Level certification
