@@ -64,6 +64,7 @@ Describe role.
 Stats
 - Develop excel macro to automate daily task. Increase completion of daily tasks to save 5 minutes on everyone on my team.
 - Coach coworkers on passing security plus to enhance productivity by 30%.
+- Adapted password manager to enhance security posture by 10%
 
 **ABAP Developer**, February 2016 to June 2016
 
