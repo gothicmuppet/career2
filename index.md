@@ -42,6 +42,7 @@ Describe role.
 Stats
 - Create a SQL statement in SAP Hana Studio to enhance proficiency by 50% to send system status updates
 - Modify macros in process chain tracker which increase efficiency by 83%.
+- Increase team productivity by 10% by being flexible and working night shifts.
 
 **SAP Portal Analyst**, February 2019 to January 2020
 
