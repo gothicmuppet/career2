@@ -13,9 +13,7 @@ As an IT professional, I organize data sets and analytics. I worked for professi
 **Big Data Analyst**, October 2021 to Present day
 
 Describe role and duties
-- Obtain Python Entry Level certification
-- Call and use images in Docker
-- Make websites in Github
+- Report Daily checks to team
 - Utilize Linux Command Line Interface
 
 **AWS Application Developer**, July 2021 to September 2021
@@ -102,7 +100,8 @@ PCEP | OpenEDG | October 2021 | n/a
 ICAgile Certified Professional | ICAgile | January 2018 | n/a
 Splunk Core Certified User | Splunk | March 2021 | March 2024
 Certified Ethical Hacker | EC-Council | August 2020 | August 2023
-Azure Data Fundamentals | Microsoft | November 2021 | n/a
+Azure Data Fundamentals DP-900 | Microsoft | November 2021 | n/a
+Azure Security Fundamentals 98-367 | Microsoft | February 2022 | n/a
 
 # Volunteering
 Coders Dojo, February 2019 to present
