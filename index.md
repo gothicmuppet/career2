@@ -14,7 +14,11 @@ As an IT professional, I organize data sets and analytics. I worked for professi
 
 Describe role and duties
 - Report Daily checks to team
-- Utilize Linux Command Line Interface
+- Utilize Linux Command Line Interface and SAS studio
+
+Stats
+- Participated in handling log4j security vulnerability by 2%
+- Assist in testing Hadoop infrastructure by 2% during their Cloudera Data Platform upgrade
 
 **AWS Application Developer**, July 2021 to September 2021
 
