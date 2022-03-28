@@ -4,13 +4,13 @@ As an IT professional, I organize data sets and analytics. I worked for professi
 ![Profile pic](https://yt3.ggpht.com/ytc/AKedOLQHb5RyMN68WHBL9Sf6dQ32LjdTiE8q1mtaQT8V_A=s176-c-k-c0x00ffffff-no-rj-mo)
 
 # Objective
-- To secure a challenging cloud computing position in a software company to enhance my learnings, knowledge, and skills.
+- To secure a challenging cloud or data analysis position to enhance my learnings, knowledge, and skills.
 
 
 # Experience 
-## Accenture Federal Services, March 2016 to present day
+## Accenture Federal Services, March 2016 to March 2022
 
-**Big Data Analyst**, October 2021 to Present day
+**Big Data Analyst**, October 2021 to March 2022
 
 Describe role and duties
 - Report Daily checks to team
@@ -19,6 +19,7 @@ Describe role and duties
 Stats
 - Participated in handling log4j security vulnerability by 2%
 - Assist in testing Hadoop infrastructure by 2% during their Cloudera Data Platform upgrade
+- Handling daily checks with SAS studio
 
 **AWS Application Developer**, July 2021 to September 2021
 
@@ -98,7 +99,7 @@ Name | Vendor | Date received | Date expires
 --- | --- | --- | --- |
 AWS Certified Cloud Practitioner | AWS | February 2021 | May 2024
 AWS Solutions Architect Associate | AWS | May 2021 | May 2024
-Security+ | CompTIA | June 2017 | June 2023
+Security+ | CompTIA | June 2017 | June 2026
 Project+ | CompTIA | January 2019 | n/a
 PCEP | OpenEDG | October 2021 | n/a
 ICAgile Certified Professional | ICAgile | January 2018 | n/a
