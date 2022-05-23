@@ -107,6 +107,7 @@ Splunk Core Certified User | Splunk | March 2021 | March 2024
 Certified Ethical Hacker | EC-Council | August 2020 | August 2023
 Azure Data Fundamentals DP-900 | Microsoft | November 2021 | n/a
 Azure Security Fundamentals 98-367 | Microsoft | February 2022 | n/a
+Google Data Analytics | Coursera | May 2022 | n/a
 
 # Volunteering
 Coders Dojo, February 2019 to present
