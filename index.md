@@ -8,6 +8,13 @@ As an IT professional, I organize data sets and analytics. I worked for professi
 
 
 # Experience 
+
+## Career Break
+**Professional development**, April 2022 to present
+Describe role and duties
+- Reassess career goals
+- Certified in Google Data Analytics
+
 ## Accenture Federal Services, March 2016 to March 2022
 
 **Big Data Analyst**, October 2021 to March 2022
